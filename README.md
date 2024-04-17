@@ -24,7 +24,7 @@ WexTube Downloader, YouTube'dan video ve ses indirmenizi sağlayan bir Python uy
 
 ## Katkıda Bulunma
 
-1. Bu projeyi forklayın (https://github.com/yourusername/WexTube-Downloader/fork)
+1. Bu projeyi forklayın (https://github.com/Wek1d/WexTube-Downloader/fork)
 2. Yeni bir özellik dalı oluşturun (git checkout -b feature/new-feature)
 3. Değişikliklerinizi yapın (git commit -am 'Add new feature')
 4. Dalınızı yayınlayın (git push origin feature/new-feature)
